@@ -1,0 +1,6 @@
+@SearchServices_HostAddress = http://localhost:5252
+
+GET {{SearchServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
